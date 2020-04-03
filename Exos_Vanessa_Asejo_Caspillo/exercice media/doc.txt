@@ -1,0 +1,4 @@
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/audio
+https://developer.mozilla.org/fr/docs/Web/HTML/Utilisation_d'audio_et_video_en_HTML5
+https://developer.mozilla.org/fr/docs/Web/API/Web_Audio_API
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math
